@@ -151,4 +151,4 @@ function lab() {
   }
 }
 
-setInterval(lab, 300);
+setInterval(lab, 50);
