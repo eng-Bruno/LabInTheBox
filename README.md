@@ -7,3 +7,5 @@
 > Gerador de labirintos utilizando algoritmo de Busca em Profundidade (DFS).
 
 ## Visualização
+
+[Lab In The Box](https://eng-bruno.github.io/LabInTheBox/)
